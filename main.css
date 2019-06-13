@@ -1,0 +1,20 @@
+#points {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-family:  Helvetica, Arial, sans-serif
+}
+#game_status {
+    position: absolute;
+    top: 240px;
+    left: 320px;
+    font-size: 20px;
+    font-family:  Helvetica, Arial, sans-serif
+}
+#restart {
+    position: absolute;
+    top: 20px;
+    left: 588px;
+    font-size: 15px;
+    font-family:  Helvetica, Arial, sans-serif
+}
